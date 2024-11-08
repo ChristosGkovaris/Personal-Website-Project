@@ -3,7 +3,7 @@
 Welcome to the "Personal Website Project". This HTML/CSS project is a digital portfolio for showcasing experience, skills, and projects. It serves as a structured, responsive and always updating platform to highlight my career and personal interests.
 
 
-## Code Overview
+## Overview
 This portfolio provides a structured layout for easy navigation. It consists of the following key sections:
 - About Me: A personal introduction and summary of experience and motivation.
 - Education: Academic qualifications, including degrees and language certifications.
